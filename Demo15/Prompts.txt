@@ -1,0 +1,2 @@
+Need for TypeHints: "How much should I pack for Tokyo?"
+Need for Docstring: You: “Tell me something about travel options for France.”
